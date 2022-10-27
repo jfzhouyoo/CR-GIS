@@ -1,4 +1,5 @@
-## [CR-GIS: Improving Conversational Recommendation via Goal-aware Interest Sequence Modeling](https://aclanthology.org/2022.coling-1.32/)
+# Code for CR-GIS
+>The implementation for our paper accepted by COLING2022: [CR-GIS: Improving Conversational Recommendation via Goal-aware Interest Sequence Modeling](https://aclanthology.org/2022.coling-1.32/)
 
 **The Code is Coming Soon.**
 
