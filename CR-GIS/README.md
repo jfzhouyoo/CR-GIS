@@ -19,7 +19,7 @@ Install the required libraries as follows:
 
 ### Dataset 
 
-The preprocessed dataset can be available from [Google Drive](), and put into the `data/` dir.
+The preprocessed dataset can be available from [Google Drive](https://drive.google.com/drive/folders/1Y1E84U1lllt2wQ7DDf9pbkN16_Jja-I9?usp=share_link), and put into the `data/` dir.
 
 ### Training & Testing
 
